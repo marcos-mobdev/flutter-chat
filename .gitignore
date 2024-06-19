@@ -50,4 +50,4 @@ firebase.json
 firebase-win.exe
 firestore.indexes.json
 firestore.rules
-google-services.json
+/android/app/google-services.json
